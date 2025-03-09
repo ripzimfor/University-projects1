@@ -1,0 +1,8 @@
+E:\coding projects\T.daneshgah.2\bin\Debug\T.daneshgah.2.exe.config
+E:\coding projects\T.daneshgah.2\bin\Debug\T.daneshgah.2.exe
+E:\coding projects\T.daneshgah.2\bin\Debug\T.daneshgah.2.pdb
+E:\coding projects\T.daneshgah.2\obj\Debug\T.daneshgah.2.csproj.AssemblyReference.cache
+E:\coding projects\T.daneshgah.2\obj\Debug\T.daneshgah.2.csproj.SuggestedBindingRedirects.cache
+E:\coding projects\T.daneshgah.2\obj\Debug\T.daneshgah.2.csproj.CoreCompileInputs.cache
+E:\coding projects\T.daneshgah.2\obj\Debug\T.daneshgah.2.exe
+E:\coding projects\T.daneshgah.2\obj\Debug\T.daneshgah.2.pdb
