@@ -1,0 +1,8 @@
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\bin\Debug\T.daneshgah.11.Tabee baazgashti zarb.exe.config
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\bin\Debug\T.daneshgah.11.Tabee baazgashti zarb.exe
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\bin\Debug\T.daneshgah.11.Tabee baazgashti zarb.pdb
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\obj\Debug\T.daneshgah.11.Tabee baazgashti zarb.csproj.AssemblyReference.cache
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\obj\Debug\T.daneshgah.11.Tabee baazgashti zarb.csproj.SuggestedBindingRedirects.cache
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\obj\Debug\T.daneshgah.11.Tabee baazgashti zarb.csproj.CoreCompileInputs.cache
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\obj\Debug\T.daneshgah.11.Tabee baazgashti zarb.exe
+E:\coding projects\T.daneshgah.11.Tabee baazgashti zarb\obj\Debug\T.daneshgah.11.Tabee baazgashti zarb.pdb

@@ -1,0 +1,8 @@
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\bin\Debug\T.daneshgah.10.Method mohit masahat mosalas.exe.config
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\bin\Debug\T.daneshgah.10.Method mohit masahat mosalas.exe
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\bin\Debug\T.daneshgah.10.Method mohit masahat mosalas.pdb
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\obj\Debug\T.daneshgah.10.Method mohit masahat mosalas.csproj.AssemblyReference.cache
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\obj\Debug\T.daneshgah.10.Method mohit masahat mosalas.csproj.SuggestedBindingRedirects.cache
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\obj\Debug\T.daneshgah.10.Method mohit masahat mosalas.csproj.CoreCompileInputs.cache
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\obj\Debug\T.daneshgah.10.Method mohit masahat mosalas.exe
+E:\coding projects\T.daneshgah.10.Method mohit masahat mosalas\obj\Debug\T.daneshgah.10.Method mohit masahat mosalas.pdb
