@@ -1,32 +1,37 @@
 ﻿using System;
 using System.IO;
 
-namespace EvenFile24
+namespace _5NumberFile
 {
     class Program
     {
         static void Main(string[] args)
         {
-            FileStream fs = new FileStream(@"C:\202\101.txt",FileMode.OpenOrCreate,FileAccess.Write);
+            FileStream fs = new FileStream(@"C:/202/121.txt", FileMode.Create, FileAccess.Write);
+
             StreamWriter sw = new StreamWriter(fs);
 
-
-            for (int i = 10; i < 100; i += 2)
-                sw.WriteLine(i);
-
+            Console.WriteLine("Enter Five Number:");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Enter a Number:");
+                string a = Console.ReadLine();
+                sw.WriteLine(a);
+            }
             sw.Close();
             fs.Close();
-            Console.WriteLine("FINISHED!!!!!");
-
-            FileStream f1 = new FileStream(@"C:\202\101.txt", FileMode.Open,FileAccess.Read);
+            FileStream f1 = new FileStream(@"C:/202/121.txt", FileMode.Open, FileAccess.Read);
             StreamReader sr = new StreamReader(f1);
+            int sum = 0;
 
-            string s = sr.ReadToEnd();
+            while (!sr.EndOfStream)
+            {
+                int a = Int32.Parse(sr.ReadLine());
 
-            Console.WriteLine(s);
+                sum += a;
+            }
+            Console.WriteLine("Sum = " + sum);
             f1.Close();
-
-            Console.ReadKey();
         }
     }
 }
