@@ -1,0 +1,23 @@
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\bin\Debug\EntekhabVahed.exe
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\bin\Debug\EntekhabVahed.exe.config
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.csproj.AssemblyReference.cache
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.Form1.resources
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.Form2.resources
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.Properties.Resources.resources
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.csproj.GenerateResource.cache
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.csproj.CoreCompileInputs.cache
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.exe
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.pdb
+D:\All important things\All about Navid\programming\ongoing projects\daneshgah\EntekhabVahed\EntekhabVahed\bin\Debug\EntekhabVahed.pdb
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\bin\Debug\EntekhabVahed.exe.config
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\bin\Debug\EntekhabVahed.exe
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\bin\Debug\EntekhabVahed.pdb
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.Form1.resources
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.Form2.resources
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.Properties.Resources.resources
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.exe
+C:\Users\Asus\Desktop\EntekhabVahed\EntekhabVahed\obj\Debug\EntekhabVahed.pdb
